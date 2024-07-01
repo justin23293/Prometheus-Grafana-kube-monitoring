@@ -191,8 +191,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   },
                   {
                     "color": "red",
@@ -302,8 +301,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   },
                   {
                     "color": "red",
@@ -417,8 +415,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   },
                   {
                     "color": "red",
@@ -545,8 +542,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   },
                   {
                     "color": "red",
@@ -691,8 +687,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   },
                   {
                     "color": "red",
@@ -803,8 +798,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   },
                   {
                     "color": "red",
@@ -913,8 +907,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   },
                   {
                     "color": "red",
@@ -1025,8 +1018,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   },
                   {
                     "color": "red",
@@ -1182,8 +1174,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   },
                   {
                     "color": "red",
@@ -1281,8 +1272,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   },
                   {
                     "color": "red",
@@ -1970,8 +1960,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   },
                   {
                     "color": "red",
@@ -2071,8 +2060,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   },
                   {
                     "color": "red",
@@ -2172,8 +2160,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   },
                   {
                     "color": "red",
@@ -2272,8 +2259,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   },
                   {
                     "color": "red",
@@ -2373,8 +2359,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   },
                   {
                     "color": "red",
@@ -2473,8 +2458,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   },
                   {
                     "color": "red",
@@ -2574,8 +2558,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   },
                   {
                     "color": "red",
@@ -2674,8 +2657,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   },
                   {
                     "color": "red",
@@ -2843,8 +2825,7 @@
                 "mode": "percentage",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   },
                   {
                     "color": "orange",
@@ -2921,8 +2902,7 @@
                 "mode": "percentage",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   },
                   {
                     "color": "orange",
@@ -2992,8 +2972,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "blue",
-                    "value": null
+                    "color": "blue"
                   }
                 ]
               }
@@ -3070,8 +3049,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   },
                   {
                     "color": "red",
@@ -3278,8 +3256,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "rgb(255, 255, 255)",
-                    "value": null
+                    "color": "rgb(255, 255, 255)"
                   }
                 ]
               },
@@ -3342,8 +3319,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "rgb(255, 255, 255)",
-                    "value": null
+                    "color": "rgb(255, 255, 255)"
                   }
                 ]
               },
@@ -3405,8 +3381,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "rgb(255, 255, 255)",
-                    "value": null
+                    "color": "rgb(255, 255, 255)"
                   }
                 ]
               },
@@ -3469,8 +3444,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "rgb(255, 255, 255)",
-                    "value": null
+                    "color": "rgb(255, 255, 255)"
                   }
                 ]
               },
@@ -3533,8 +3507,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   },
                   {
                     "color": "#EAB839",
@@ -3643,8 +3616,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   },
                   {
                     "color": "red",
@@ -3744,8 +3716,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   },
                   {
                     "color": "red",
@@ -4531,7 +4502,7 @@
       {
         "current": {
           "isNone": true,
-          "selected": true,
+          "selected": false,
           "text": "None",
           "value": ""
         },
@@ -4607,12 +4578,8 @@
         "allValue": "",
         "current": {
           "selected": false,
-          "text": [
-            "All"
-          ],
-          "value": [
-            "$__all"
-          ]
+          "text": "master",
+          "value": "master"
         },
         "datasource": {
           "type": "prometheus",
@@ -4637,8 +4604,8 @@
       {
         "current": {
           "selected": false,
-          "text": "172.31.24.153:9100",
-          "value": "172.31.24.153:9100"
+          "text": "172.31.22.233:9100",
+          "value": "172.31.22.233:9100"
         },
         "datasource": {
           "type": "prometheus",
@@ -4663,15 +4630,9 @@
       },
       {
         "current": {
-          "selected": true,
-          "text": [
-            "default",
-            "kube-system"
-          ],
-          "value": [
-            "default",
-            "kube-system"
-          ]
+          "selected": false,
+          "text": "default",
+          "value": "default"
         },
         "datasource": {
           "type": "prometheus",
@@ -4696,13 +4657,9 @@
       },
       {
         "current": {
-          "selected": true,
-          "text": [
-            "All"
-          ],
-          "value": [
-            "$__all"
-          ]
+          "selected": false,
+          "text": "prometheus-kube-state-metrics-d7875bd57-2bs5h",
+          "value": "prometheus-kube-state-metrics-d7875bd57-2bs5h"
         },
         "datasource": {
           "type": "prometheus",
@@ -4727,6 +4684,7 @@
       },
       {
         "current": {
+          "isNone": true,
           "selected": false,
           "text": "None",
           "value": ""
@@ -4754,13 +4712,9 @@
       },
       {
         "current": {
-          "selected": true,
-          "text": [
-            "kubernetes-service-endpoints"
-          ],
-          "value": [
-            "kubernetes-service-endpoints"
-          ]
+          "selected": false,
+          "text": "kubernetes-service-endpoints",
+          "value": "kubernetes-service-endpoints"
         },
         "datasource": {
           "type": "prometheus",
@@ -4785,23 +4739,9 @@
       },
       {
         "current": {
-          "selected": true,
-          "text": [
-            "10.32.0.3:8080",
-            "10.32.0.6:9153",
-            "10.40.0.4:9153",
-            "172.31.22.121:9100",
-            "172.31.22.233:9100",
-            "172.31.24.153:9100"
-          ],
-          "value": [
-            "10.32.0.3:8080",
-            "10.32.0.6:9153",
-            "10.40.0.4:9153",
-            "172.31.22.121:9100",
-            "172.31.22.233:9100",
-            "172.31.24.153:9100"
-          ]
+          "selected": false,
+          "text": "10.32.0.3:8080",
+          "value": "10.32.0.3:8080"
         },
         "datasource": {
           "type": "prometheus",
@@ -4854,12 +4794,8 @@
       {
         "current": {
           "selected": false,
-          "text": [
-            "kubernetes-service-endpoints"
-          ],
-          "value": [
-            "kubernetes-service-endpoints"
-          ]
+          "text": "kubernetes-service-endpoints",
+          "value": "kubernetes-service-endpoints"
         },
         "datasource": {
           "type": "prometheus",
@@ -4884,13 +4820,9 @@
       },
       {
         "current": {
-          "selected": true,
-          "text": [
-            "All"
-          ],
-          "value": [
-            "$__all"
-          ]
+          "selected": false,
+          "text": "All",
+          "value": "$__all"
         },
         "datasource": {
           "type": "prometheus",
@@ -4952,6 +4884,6 @@
   "timezone": "",
   "title": "Bobcares - MAIN dashboard",
   "uid": "bobcares_kube_mon",
-  "version": 40,
+  "version": 41,
   "weekStart": ""
 }
