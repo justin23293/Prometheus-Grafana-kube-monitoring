@@ -4078,9 +4078,9 @@
         {
           "gridPos": {
             "h": 3,
-            "w": 3,
+            "w": 6,
             "x": 0,
-            "y": 41
+            "y": 9
           },
           "id": 160,
           "libraryPanel": {
@@ -4092,9 +4092,9 @@
         {
           "gridPos": {
             "h": 3,
-            "w": 3,
-            "x": 3,
-            "y": 41
+            "w": 6,
+            "x": 6,
+            "y": 9
           },
           "id": 162,
           "libraryPanel": {
@@ -4108,7 +4108,7 @@
             "h": 8,
             "w": 12,
             "x": 12,
-            "y": 41
+            "y": 9
           },
           "id": 70,
           "libraryPanel": {
@@ -4122,7 +4122,7 @@
             "h": 8,
             "w": 12,
             "x": 0,
-            "y": 44
+            "y": 12
           },
           "id": 66,
           "libraryPanel": {
@@ -4136,7 +4136,7 @@
             "h": 8,
             "w": 12,
             "x": 12,
-            "y": 49
+            "y": 17
           },
           "id": 72,
           "libraryPanel": {
@@ -4150,7 +4150,7 @@
             "h": 8,
             "w": 12,
             "x": 0,
-            "y": 52
+            "y": 20
           },
           "id": 262,
           "libraryPanel": {
@@ -4178,7 +4178,7 @@
             "h": 8,
             "w": 12,
             "x": 0,
-            "y": 74
+            "y": 10
           },
           "id": 86,
           "libraryPanel": {
@@ -4192,7 +4192,7 @@
             "h": 8,
             "w": 12,
             "x": 12,
-            "y": 74
+            "y": 10
           },
           "id": 120,
           "libraryPanel": {
@@ -4206,7 +4206,7 @@
             "h": 8,
             "w": 12,
             "x": 0,
-            "y": 82
+            "y": 18
           },
           "id": 90,
           "libraryPanel": {
@@ -4220,7 +4220,7 @@
             "h": 8,
             "w": 12,
             "x": 12,
-            "y": 82
+            "y": 18
           },
           "id": 122,
           "libraryPanel": {
@@ -4234,7 +4234,7 @@
             "h": 8,
             "w": 12,
             "x": 0,
-            "y": 90
+            "y": 26
           },
           "id": 94,
           "libraryPanel": {
@@ -4248,7 +4248,7 @@
             "h": 8,
             "w": 12,
             "x": 12,
-            "y": 90
+            "y": 26
           },
           "id": 126,
           "libraryPanel": {
@@ -4262,7 +4262,7 @@
             "h": 8,
             "w": 12,
             "x": 0,
-            "y": 98
+            "y": 34
           },
           "id": 231,
           "libraryPanel": {
@@ -4276,7 +4276,7 @@
             "h": 8,
             "w": 12,
             "x": 12,
-            "y": 98
+            "y": 34
           },
           "id": 88,
           "libraryPanel": {
@@ -4290,7 +4290,7 @@
             "h": 8,
             "w": 12,
             "x": 0,
-            "y": 106
+            "y": 42
           },
           "id": 92,
           "libraryPanel": {
@@ -4304,7 +4304,7 @@
             "h": 8,
             "w": 12,
             "x": 12,
-            "y": 106
+            "y": 42
           },
           "id": 124,
           "libraryPanel": {
@@ -4318,7 +4318,7 @@
             "h": 8,
             "w": 12,
             "x": 0,
-            "y": 114
+            "y": 50
           },
           "id": 116,
           "libraryPanel": {
@@ -4332,7 +4332,7 @@
             "h": 8,
             "w": 12,
             "x": 12,
-            "y": 114
+            "y": 50
           },
           "id": 118,
           "libraryPanel": {
@@ -4360,7 +4360,7 @@
             "h": 5,
             "w": 4,
             "x": 0,
-            "y": 75
+            "y": 11
           },
           "id": 237,
           "libraryPanel": {
@@ -4374,7 +4374,7 @@
             "h": 5,
             "w": 4,
             "x": 4,
-            "y": 75
+            "y": 11
           },
           "id": 235,
           "libraryPanel": {
@@ -4388,7 +4388,7 @@
             "h": 5,
             "w": 4,
             "x": 8,
-            "y": 75
+            "y": 11
           },
           "id": 233,
           "libraryPanel": {
@@ -4402,7 +4402,7 @@
             "h": 8,
             "w": 12,
             "x": 12,
-            "y": 75
+            "y": 11
           },
           "id": 239,
           "libraryPanel": {
@@ -4416,7 +4416,7 @@
             "h": 8,
             "w": 12,
             "x": 0,
-            "y": 80
+            "y": 16
           },
           "id": 247,
           "libraryPanel": {
@@ -4430,7 +4430,7 @@
             "h": 8,
             "w": 12,
             "x": 12,
-            "y": 83
+            "y": 19
           },
           "id": 249,
           "libraryPanel": {
@@ -4444,7 +4444,7 @@
             "h": 8,
             "w": 12,
             "x": 0,
-            "y": 88
+            "y": 24
           },
           "id": 245,
           "libraryPanel": {
@@ -4458,7 +4458,7 @@
             "h": 8,
             "w": 12,
             "x": 12,
-            "y": 91
+            "y": 27
           },
           "id": 241,
           "libraryPanel": {
@@ -4630,9 +4630,13 @@
       },
       {
         "current": {
-          "selected": false,
-          "text": "default",
-          "value": "default"
+          "selected": true,
+          "text": [
+            "All"
+          ],
+          "value": [
+            "$__all"
+          ]
         },
         "datasource": {
           "type": "prometheus",
@@ -4657,9 +4661,13 @@
       },
       {
         "current": {
-          "selected": false,
-          "text": "prometheus-kube-state-metrics-d7875bd57-2bs5h",
-          "value": "prometheus-kube-state-metrics-d7875bd57-2bs5h"
+          "selected": true,
+          "text": [
+            "All"
+          ],
+          "value": [
+            "$__all"
+          ]
         },
         "datasource": {
           "type": "prometheus",
@@ -4884,6 +4892,6 @@
   "timezone": "",
   "title": "Bobcares - MAIN dashboard",
   "uid": "bobcares_kube_mon",
-  "version": 41,
+  "version": 43,
   "weekStart": ""
 }
